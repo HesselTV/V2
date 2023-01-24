@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-image: url(../assets/images/2070892-abstract-banner-design-template-black-glossy-with-gold-line-and-lighting-effect-on-dark-background-and-texture-vectoriel.jpg);
+}
+
+.member {
+  display: inline-block;
+  margin: 10px;
+  text-align: left;
+  flex: 1 0 calc(50% - 20px);
+}
+
+.member img {
+  width: 200px;
+  border-radius: 50%;
+}
+
+.member h2 {
+  font-size: 1.5em;
+  margin-top: 10px;
+  text-decoration: underline;
+}
+
+
+.members-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.member {
+  flex: 1 0 calc(50% - 20px);
+  margin: 10px;
+  text-align: left;
+  color:rgb(245,240,164);
+}

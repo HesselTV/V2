@@ -1,0 +1,15 @@
+body {
+  background-image: url(../assets/images/2070892-abstract-banner-design-template-black-glossy-with-gold-line-and-lighting-effect-on-dark-background-and-texture-vectoriel.jpg);
+  text-align: center;
+  padding: 15%;
+}
+h1 {
+  color: rgb(255, 255, 255);
+  font-size: 2em;
+  margin-bottom: 0.5em;
+}
+p {
+  color: rgb(255, 255, 255);
+  font-size: 1.2em;
+  margin-top: 0;
+}
