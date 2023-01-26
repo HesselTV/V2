@@ -82,6 +82,7 @@ nav a:hover {
   border-style:ridge;
   background-color: white;
   padding-bottom: 20px;
+  max-whidth: 80%;
 }
 
 iframe {
