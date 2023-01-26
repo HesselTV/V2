@@ -47,6 +47,8 @@ nav a:hover {
   border-style:ridge;
   background-color: white;
   padding-bottom: 20px;
+  max-width: 90%;
+  margin-left: 5%;
 }
 
 .actu h3{
@@ -82,7 +84,8 @@ nav a:hover {
   border-style:ridge;
   background-color: white;
   padding-bottom: 20px;
-  max-width: 80%;
+  max-width: 90%;
+  margin-left: 5%;
 }
 
 iframe {
